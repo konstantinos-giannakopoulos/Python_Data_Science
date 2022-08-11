@@ -6,7 +6,7 @@ Contents
 
 2) NumPy (ndarray)
 
-3) Pandas (DataFrame)
+3) Pandas (Series, DataFrame)
 
 4) Matplotlib (Data Visualization)
 
