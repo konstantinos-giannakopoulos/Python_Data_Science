@@ -1,5 +1,7 @@
 # Python_Data_Science
 
+Examples found in textbooks and other resources.
+
 Contents
 
 1) IPython and Jupyter
