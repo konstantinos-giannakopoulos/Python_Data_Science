@@ -2,7 +2,7 @@
 
 Examples found in textbooks and other resources.
 
-[Main source](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks)
+[Main source](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 
 Contents
