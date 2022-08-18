@@ -17,20 +17,20 @@ Contents
 
 5) Scikit-Learn for Machine Learning
 
-  a) Naive Bayes' Classification
+      a) Naive Bayes' Classification
   
-  b) Linear Regression
+      b) Linear Regression
   
-  c) Support Vector Machines (SVMs)
+      c) Support Vector Machines (SVMs)
   
-  d) Decision Trees & Random Forests
+      d) Decision Trees & Random Forests
   
-  e) Principal Component Analysis (PCA)
+      e) Principal Component Analysis (PCA)
   
-  f) Manifold Learning
+      f) Manifold Learning
   
-  g) k-Means Clustering
+      g) k-Means Clustering
   
-  h) Gaussian Mixture Models
+      h) Gaussian Mixture Models
   
-  i) Density Estimation
+      i) Density Estimation
