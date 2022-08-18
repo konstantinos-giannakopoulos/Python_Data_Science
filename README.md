@@ -2,6 +2,9 @@
 
 Examples found in textbooks and other resources.
 
+[Main source](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks)
+
+
 Contents
 
 1) IPython and Jupyter
