@@ -13,3 +13,21 @@ Contents
 4) Matplotlib (Data Visualization)
 
 5) Scikit-Learn for Machine Learning
+
+  a) Naive Bayes' Classification
+  
+  b) Linear Regression
+  
+  c) Support Vector Machines (SVMs)
+  
+  d) Decision Trees & Random Forests
+  
+  e) Principal Component Analysis (PCA)
+  
+  f) Manifold Learning
+  
+  g) k-Means Clustering
+  
+  h) Gaussian Mixture Models
+  
+  i) Density Estimation
