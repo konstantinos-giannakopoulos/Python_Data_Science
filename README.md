@@ -4,8 +4,7 @@ Examples found in textbooks and other resources.
 
 [Main source](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-
-Contents
+Contents:
 
 1) IPython and Jupyter
 
